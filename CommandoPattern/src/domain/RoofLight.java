@@ -1,5 +1,6 @@
 package domain;
 
+//* Receiver object met een Interface ILight
 public class RoofLight implements ILight {
     private boolean isOn;
 

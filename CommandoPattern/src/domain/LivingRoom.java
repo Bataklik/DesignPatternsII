@@ -1,5 +1,6 @@
 package domain;
 
+//* Invoker klasse met een IRoom interface
 public class LivingRoom implements IRoom {
     ILight light;
     IWindow window;

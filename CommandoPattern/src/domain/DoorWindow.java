@@ -1,5 +1,6 @@
 package domain;
 
+//* Receiver object met een IWindow interface
 public class DoorWindow implements IWindow {
     boolean isOpen;
 

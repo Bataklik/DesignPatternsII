@@ -1,5 +1,6 @@
 package domain;
 
+//* Invoker interface
 public interface IRoom {
     void executeLightCommand(ICommand lightCommand);
     void executeWindowCommand(ICommand windowCommand);
