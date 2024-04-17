@@ -19,15 +19,19 @@ De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerp
 - [Factory Method](./FactoryMethodPattern)
 - [Singleton](./SingletonPattern)
 - [Builder](./BuilderPattern)
+- [BuilderII](./BuilderPatternII)
 
 ### Structural Patterns
 
 - [Object Adapter](./AdapterPattern_Object/)
 - [Class Adapter](./AdapterPattern_Class/)
+- [Proxy](./ProxyPattern/)
+- [Composite](./CompositePattern/)
 
 ### Behavioral Patterns
 
 - [Command](./CommandoPattern/)
+- [Iterator](./IteratorPattern/)
 
 ## Fouten
 
