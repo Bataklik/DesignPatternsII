@@ -16,22 +16,22 @@ De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerp
 ### Creational Patterns
 
 - Abstract Factory
-- [Factory Method](./FactoryMethodPattern)
-- [Singleton](./SingletonPattern)
-- [Builder](./BuilderPattern)
-- [BuilderII](./BuilderPatternII)
+- [Factory Method](./CreationalPatterns/FactoryMethodPattern)
+- [Singleton](./CreationalPatterns/SingletonPattern)
+- [Builder](./CreationalPatterns/BuilderPattern)
+- [BuilderII](./CreationalPatterns/BuilderPatternII)
 
 ### Structural Patterns
 
-- [Object Adapter](./AdapterPattern_Object/)
-- [Class Adapter](./AdapterPattern_Class/)
-- [Proxy](./ProxyPattern/)
-- [Composite](./CompositePattern/)
+- [Object Adapter](./StructuralPatterns/AdapterPattern_Object)
+- [Class Adapter](./StructuralPatterns/AdapterPattern_Class)
+- [Proxy](./StructuralPatterns/ProxyPattern)
+- [Composite](./StructuralPatterns/CompositePattern)
 
 ### Behavioral Patterns
 
-- [Command](./CommandoPattern/)
-- [Iterator](./IteratorPattern/)
+- [Command](./BehavioralPatterns/CommandoPattern)
+- [Iterator](./BehavioralPatterns/IteratorPattern)
 
 ## Fouten
 
