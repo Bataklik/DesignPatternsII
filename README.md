@@ -15,8 +15,8 @@ De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerp
 
 ### Creational Patterns
 
-- Abstract Factory
 - [Factory Method](./CreationalPatterns/FactoryMethodPattern)
+- [Abstract Factory](./CreationalPatterns//AbstractFactoryPattern/)
 - [Singleton](./CreationalPatterns/SingletonPattern)
 - [Builder](./CreationalPatterns/BuilderPattern)
 - [BuilderII](./CreationalPatterns/BuilderPatternII)
