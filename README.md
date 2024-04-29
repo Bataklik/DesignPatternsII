@@ -29,7 +29,7 @@ De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerp
 
 ### Behavioral Patterns
 
-- [Command](./BehavioralPatterns/CommandoPattern)
+- [Command](./BehavioralPatterns/CommandPattern)
 - [Iterator](./BehavioralPatterns/IteratorPattern)
 
 ## Fouten
