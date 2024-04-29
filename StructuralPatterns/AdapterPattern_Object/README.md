@@ -1,4 +1,4 @@
-# Builder Pattern
+# (Object) Adapter Pattern
 
 [(Object) Adapter Pattern](https://refactoring.guru/design-patterns/adapter) is 
 een structural pattern converteert de interface van een klasse naar een andere 
