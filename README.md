@@ -25,7 +25,7 @@ De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerp
 - [Object Adapter](./StructuralPatterns/AdapterPattern_Object)
 - [Class Adapter](./StructuralPatterns/AdapterPattern_Class)
 - [Proxy](./StructuralPatterns/ProxyPattern)
-- [Composite](./StructuralPatterns/CompositePattern)
+- [Composite](./StructuralPatterns/Compositepattern)
 
 ### Behavioral Patterns
 
