@@ -5,4 +5,4 @@ een structural pattern waarmee je objecten kunt samenvoegen tot boomstructuren e
 
 ## UML
 
-![Builder Pattern UML](./uml/uml.png)
+![Composite Pattern UML](./uml/uml.png)

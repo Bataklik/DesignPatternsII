@@ -6,4 +6,4 @@ interface, waardoor klasse met niet combineerbare interfaces kunnen samenwerken
 
 ## UML
 
-![Builder Pattern UML](./uml/uml.png)
+![(Class) Adapter Pattern UML](./uml/uml.png)
