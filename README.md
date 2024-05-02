@@ -13,6 +13,10 @@ Voor het maken van de projecten zijn de volgende software pakketten gebruikt:
 
 De projecten zijn opgedeeld in verschillende mappen die de verschillende ontwerppatronen bevatten.
 
+Hier volgt een korte samenvatting van de definities:
+
+- [Design patterns](./designPatterns.md)
+
 ### Creational Patterns
 
 - [Factory Method](./CreationalPatterns/FactoryMethodPattern)
