@@ -35,6 +35,7 @@ Hier volgt een korte samenvatting van de definities:
 
 - [Command](./BehavioralPatterns/CommandPattern)
 - [Iterator](./BehavioralPatterns/IteratorPattern)
+- [Template Method](./BehavioralPatterns/TemplateMethodPattern/)
 
 ## Fouten
 
