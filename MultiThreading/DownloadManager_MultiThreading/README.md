@@ -25,3 +25,7 @@ Je taak is om een eenvoudige download manager te implementeren die meerdere best
 - Implementeer robuuste foutafhandeling om te gaan met netwerkproblemen, ongeldige URLs, enzovoort.
 - Overweeg om de downloadsnelheid te beheren door gebruik te maken van limieten voor het aantal gelijktijdige downloads.
 - Gebruik Java's standaardbibliotheek voor netwerken en bestandsbewerkingen.
+
+## UML
+
+![Concurrent Download Manager UML](./uml/uml.png)

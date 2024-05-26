@@ -22,4 +22,7 @@ Je taak is om een eenvoudig programma te schrijven dat een bankrekening simuleer
 - Zorg ervoor dat je het `synchronized`-woord gebruikt op de juiste manier om de kritieke secties van de code te beschermen.
 - Implementeer foutafhandeling om ervoor te zorgen dat de bankrekening niet in een inconsistente toestand wordt achtergelaten, bijvoorbeeld door te voorkomen dat er meer geld wordt opgenomen dan beschikbaar is.
 - Gebruik Java's multithreading-API's om de threads te maken en te beheren.
-- 
+
+## UML
+
+![Bankrekening Synchronisatie UML](./uml/uml.png)
