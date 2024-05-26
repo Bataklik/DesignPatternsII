@@ -40,6 +40,8 @@ Hier volgt een korte samenvatting van de definities:
 ### Multithreading
 
 - [Bestellingen MultiThread](./MultiThreading/Bestellingen_MultiThread/README.md)
+- [Download Manager MultiThreading](./MultiThreading/DownloadManager_MultiThreading/README.md)
+- [Bankrekening Synchronised](./MultiThreading/Bankrekening_Synchronised/README.md)
 
 ## Fouten
 
