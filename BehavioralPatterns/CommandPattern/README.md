@@ -6,6 +6,10 @@ alle benodigde informatie, waardoor het mogelijk is om verzoeken door te geven,
 uitvoering uit te stellen, in een wachtrij te plaatsen en bewerkingen ongedaan
 te maken.
 
+## Andere oefeningen
+
+[Command Pattern Smart Home](../CommandPattern_SmartHome/README.md)
+
 ## UML
 
 ![Command Pattern UML](./uml/uml.png)
