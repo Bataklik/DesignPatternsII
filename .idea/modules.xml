@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/AdapterPattern_Class/AdapterPattern_Class.iml" filepath="$PROJECT_DIR$/StructuralPatterns/AdapterPattern_Class/AdapterPattern_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/AdapterPattern_Object/AdapterPattern_Object.iml" filepath="$PROJECT_DIR$/StructuralPatterns/AdapterPattern_Object/AdapterPattern_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/CreationalPatterns/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/CommandPattern_SmartHome/CommandPattern_SmartHome.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/CommandPattern_SmartHome/CommandPattern_SmartHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/CommandoPattern/CommandoPattern.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/CommandoPattern/CommandoPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Compositepattern/Compositepattern.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Compositepattern/Compositepattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatternsII.iml" filepath="$PROJECT_DIR$/.idea/DesignPatternsII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethodPattern/FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethodPattern/FactoryMethodPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/IteratorPattern/IteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/StructuralPatterns/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/ProxyPattern_BeveiligdBestandslees/ProxyPattern_BeveiligdBestandslees.iml" filepath="$PROJECT_DIR$/StructuralPatterns/ProxyPattern_BeveiligdBestandslees/ProxyPattern_BeveiligdBestandslees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/CreationalPatterns/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/SingletonPatternII/SingletonPatternII.iml" filepath="$PROJECT_DIR$/CreationalPatterns/SingletonPatternII/SingletonPatternII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/TemplateMethodPattern/TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/TemplateMethodPattern/TemplateMethodPattern.iml" />
+    </modules>
+  </component>
+</project>
