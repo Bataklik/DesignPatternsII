@@ -40,3 +40,7 @@ is een creational pattern dat een interface biedt voor het maken van objecten. S
 ## Singleton pattern
 
 is een creational pattern waarmee je ervoor kunt zorgen dat een klasse juist één instantie heeft, terwijl je een globaal toegangspunt tot deze instantie hebt.
+
+## Template Method pattern
+
+is een behavioral pattern dat een algoritme definieert in de superklasse, waarbij subklassen specifieke stappen kunnen overschrijven zonder de structuur te wijzigen.

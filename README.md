@@ -37,6 +37,10 @@ Hier volgt een korte samenvatting van de definities:
 - [Iterator](./BehavioralPatterns/IteratorPattern)
 - [Template Method](./BehavioralPatterns/TemplateMethodPattern/)
 
+### Multithreading
+
+- [Bestellingen MultiThread](./MultiThreading/Bestellingen_MultiThread/README.md)
+
 ## Fouten
 
 Bij fouten of verbeteringen kan er een issue worden aangemaakt of een pull request worden ingediend.
